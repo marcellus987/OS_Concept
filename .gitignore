@@ -1,4 +1,8 @@
-.mkv
-.mp4
-.txt
-.pdf
+*.mkv
+*.mp4
+*.txt
+*.pdf
+*.vs*
+*.exe
+ubuntu*
+*.class
